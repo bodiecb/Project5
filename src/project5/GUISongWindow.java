@@ -4,7 +4,6 @@ import CS2114.Button;
 import java.awt.Color;
 import CS2114.Window;
 import CS2114.WindowSide;
-import rollercoaster.CoasterTrain;
 
 /**
  * This class creates the screen that the client interacts with. The screen 
